@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Madkiwi11 /Fatima Hasan
-- 👀 I’m interested in coding
+- 👽👋 Hi, I’m @Madkiwi11 /Fatima Hasan
+- 🤖 I’m interested in coding
 - 🌱 I’m currently learning full stack
 - 📫 How to reach me 
 fatimahasannazim@gmail.com
